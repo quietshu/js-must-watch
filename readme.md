@@ -1,11 +1,11 @@
 > This is a list of must-watch videos devoted to JavaScript
 
 ## 2035
-1. **done 2014-7-12** [Gary Bernhardt: **The Birth & Death of Javascript**](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+1. **done 2014-7-12** ~~[Gary Bernhardt: **The Birth & Death of Javascript**](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)~~
 
 ## 2014
 1. [Ilya Grigorik: **Website Performance Optimization** (Udacity course)](https://www.udacity.com/course/ud884) #HOT
-2. **done 2014-7-12** [Mark DiMarco: **User Interface Algorithms**](https://www.youtube.com/watch?v=90NsjKvz9Ns&index=2&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN)
+2. **done 2014-7-12** ~~[Mark DiMarco: **User Interface Algorithms**](https://www.youtube.com/watch?v=90NsjKvz9Ns&index=2&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN)~~
 3. [Neil Green: **Writing Custom DSLs**](https://www.youtube.com/watch?v=lm4jEcnWeKI&index=11&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN)
 4. [Philip Roberts: **Help, I'm stuck in an event-loop**](http://vimeo.com/96425312)
 5. [Eric Bidelman: **Polymer and Web Components change everything you know about Web development**](https://www.youtube.com/watch?v=8OJ7ih8EE7s) #io14 
@@ -20,7 +20,7 @@
 6. [John McCutchan: **A Trip Down Memory Lane with Gmail and DevTools**](https://www.youtube.com/watch?v=x9Jlu_h_Lyw&feature=youtu.be) #io13
 7. [Joe Marini: **Upgrading to a Chrome Packaged App**](https://www.youtube.com/watch?v=e0W2szZ2qhg&feature=youtu.be) #io13
 8. [Pete Hunt: **React: Rethinking best practices**](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
-9. **done 2014-4-21** [Martin Kleppe: **1024+ Seconds of JS Wizardry**](https://www.youtube.com/watch?v=RTxtiLp1C8Y)
+9. **done 2014-4-21** ~~[Martin Kleppe: **1024+ Seconds of JS Wizardry**](https://www.youtube.com/watch?v=RTxtiLp1C8Y)~~
 10. [Yehuda Katz: **A tale of two MVC's**](https://www.youtube.com/watch?v=s1dhXamEAKQ)
 
 ## 2012

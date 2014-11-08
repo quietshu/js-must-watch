@@ -1,8 +1,5 @@
 > This is a list of must-watch videos devoted to JavaScript
 
-## 2035
-1. **done 2014-7-12** ~~[Gary Bernhardt: **The Birth & Death of Javascript**](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)~~
-
 ## 2014
 1. [Ilya Grigorik: **Website Performance Optimization** (Udacity course)](https://www.udacity.com/course/ud884) #HOT
 2. **done 2014-7-12** ~~[Mark DiMarco: **User Interface Algorithms**](https://www.youtube.com/watch?v=90NsjKvz9Ns&index=2&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN)~~

@@ -8,6 +8,7 @@
 5. [Eric Bidelman: **Polymer and Web Components change everything you know about Web development**](https://www.youtube.com/watch?v=8OJ7ih8EE7s) #io14 
 6. [Alex Russell, Jake Archibald: **Bridging the gap between the web and apps**](https://www.youtube.com/watch?v=_yy0CDLnhMA) #io14
 7. **done 2014-10-29** ~~[Gary Bernhadt: **The Birth and Death of JavaScript**](https://www.youtube.com/watch?v=tMEH9OMYmsQ)~~
+8. [Reginald Braithwaite: **Invent the future, don't recreate the past**](http://youtu.be/uYcAjr2J_rU) [39:16]
 
 ## 2013
 1. [Nat Duca: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) #io13

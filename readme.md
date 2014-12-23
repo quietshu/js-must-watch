@@ -5,7 +5,7 @@
 2. **done 2014-7-12** ~~[Mark DiMarco: **User Interface Algorithms**](https://www.youtube.com/watch?v=90NsjKvz9Ns&index=2&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN)~~
 3. [Neil Green: **Writing Custom DSLs**](https://www.youtube.com/watch?v=lm4jEcnWeKI&index=11&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN)
 4. **done 2014-11-8** ~~[Philip Roberts: **Help, I'm stuck in an event-loop**](http://vimeo.com/96425312)~~
-5. [Eric Bidelman: **Polymer and Web Components change everything you know about Web development**](https://www.youtube.com/watch?v=8OJ7ih8EE7s) #io14 
+5. **done 2014-12-23** ~~[Eric Bidelman: **Polymer and Web Components change everything you know about Web development**](https://www.youtube.com/watch?v=8OJ7ih8EE7s)~~ #io14 
 6. [Alex Russell, Jake Archibald: **Bridging the gap between the web and apps**](https://www.youtube.com/watch?v=_yy0CDLnhMA) #io14
 7. **done 2014-10-29** ~~[Gary Bernhadt: **The Birth and Death of JavaScript**](https://www.youtube.com/watch?v=tMEH9OMYmsQ)~~
 8. [Reginald Braithwaite: **Invent the future, don't recreate the past**](http://youtu.be/uYcAjr2J_rU) [39:16]

@@ -5,6 +5,7 @@
 1. Dr. Axel Rauschmayer: **Using ECMAScript 6 today** 
 	* [Part 1](https://www.youtube.com/watch?v=Fg3bEZIcnUw) [40:44]
 	* [Part 2](https://www.youtube.com/watch?v=Vhhq1WpzsnM) [53:04]
+1. **DONE 2015-6-25** ~~[Polymer and modern web APIs: In production at Google scale](https://www.youtube.com/watch?v=fD2As5RmM8Q) [46:27]~~
 
 ## 2014
 1. [Ilya Grigorik: **Website Performance Optimization** (Udacity course)](https://www.udacity.com/course/ud884) #HOT
